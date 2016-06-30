@@ -1,0 +1,20 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File 'E:\git\doom.com\htdocs\assets\css\main.css'" />
+    <option name="defaultScopeName" value="File 'E:\git\doom.com\htdocs\assets\css\main.css'" />
+    <option name="SEARCH_SCOPE" value="File 'E:\git\doom.com\htdocs\assets\css\main.css'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.mxml</mask>
+      <mask>*.php</mask>
+      <mask>*.xml</mask>
+      <mask>*.json</mask>
+      <mask>*.css</mask>
+    </recentFileMasks>
+  </component>
+</application>
