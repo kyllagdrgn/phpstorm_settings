@@ -3,6 +3,7 @@
     <option name="customScope" value="File 'E:\git\doom.com\htdocs\assets\css\main.css'" />
     <option name="defaultScopeName" value="File 'E:\git\doom.com\htdocs\assets\css\main.css'" />
     <option name="SEARCH_SCOPE" value="File 'E:\git\doom.com\htdocs\assets\css\main.css'" />
+    <option name="FILE_MASK" value="!log-*" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,6 +16,8 @@
       <mask>*.xml</mask>
       <mask>*.json</mask>
       <mask>*.css</mask>
+      <mask>log-*</mask>
+      <mask>!log-*</mask>
     </recentFileMasks>
   </component>
 </application>
