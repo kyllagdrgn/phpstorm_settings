@@ -53,6 +53,7 @@
     </local-interpreter>
     <local-interpreter path="C:/Program Files (x86)/Nodist/bin/node.exe">
       <version-cache version="5.11.1" last-modified="1468435766000" />
+      <npm-package value="C:/Program Files (x86)/Nodist/bin/node_modules/npm" />
     </local-interpreter>
     <local-interpreter path="C:/Program Files (x86)/Nodist/v-x64/5.10.0/node.exe">
       <version-cache version="5.10.0" last-modified="1469030493872" />
