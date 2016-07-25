@@ -48,6 +48,12 @@
     <option name="SHOW_PATH" value="true" />
   </component>
   <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files (x86)/Nodist/v/6.3.0/node.exe">
+      <version-cache version="6.3.0" last-modified="1468435852000" />
+    </local-interpreter>
+    <local-interpreter path="C:/Program Files (x86)/Nodist/bin/node.exe">
+      <version-cache version="5.11.1" last-modified="1468435766000" />
+    </local-interpreter>
     <local-interpreter path="C:/Program Files (x86)/Nodist/v-x64/5.10.0/node.exe">
       <version-cache version="5.10.0" last-modified="1469030493872" />
       <npm-package value="E:/git/doom.com/node_modules/npm" />
