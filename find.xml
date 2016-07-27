@@ -2,8 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File 'E:\git\doom.com\htdocs\assets\css\main.css'" />
     <option name="defaultScopeName" value="File 'E:\git\doom.com\htdocs\assets\css\main.css'" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File 'E:\git\doom.com\htdocs\assets\css\main.css'" />
     <option name="FILE_MASK" value="!log-*" />
     <recentFileMasks>
