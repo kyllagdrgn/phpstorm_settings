@@ -1,23 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'E:\git\doom.com\htdocs\assets\css\main.css'" />
-    <option name="defaultScopeName" value="File 'E:\git\doom.com\htdocs\assets\css\main.css'" />
-    <option name="SEARCH_SCOPE" value="File 'E:\git\doom.com\htdocs\assets\css\main.css'" />
-    <option name="FILE_MASK" value="!log-*" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>*.php</mask>
-      <mask>*.xml</mask>
-      <mask>*.json</mask>
-      <mask>*.css</mask>
-      <mask>log-*</mask>
-      <mask>!log-*</mask>
-    </recentFileMasks>
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Directory '/Users/kyllian/git/doom.com/htdocs/assets/css'" />
+    <option name="defaultScopeName" value="Directory '/Users/kyllian/git/doom.com/htdocs/assets/css'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Directory '/Users/kyllian/git/doom.com/htdocs/assets/css'" />
   </component>
 </application>
