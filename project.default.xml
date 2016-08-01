@@ -1,48 +1,84 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="Behat">
-        <behat_settings>
-          <BehatSettings />
-        </behat_settings>
+      <component name="ComposerSettings">
+        <phpPath>/usr/bin/php</phpPath>
       </component>
-      <component name="BladeInjectionConfiguration" escapedTextEnd="!!}" escapedTextStart="{!!" />
       <component name="Git.Settings">
-        <option name="UPDATE_TYPE" value="REBASE" />
+        <option name="UPDATE_TYPE" value="MERGE" />
+        <option name="PUSH_AUTO_UPDATE" value="true" />
         <option name="ROOT_SYNC" value="DONT_SYNC" />
       </component>
       <component name="InspectionProjectProfileManager">
         <profile version="1.0">
           <option name="myName" value="Project Default" />
-          <inspection_tool class="Eslint" enabled="true" level="ERROR" enabled_by_default="true" />
-          <inspection_tool class="JSLint" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="BladeClosingSection" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="BladeControlDirectives" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="CheckDtdRefs" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="CheckNodeTest" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="CheckTagEmptyBody" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="CheckXmlFileWithXercesValidator" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="CoffeeScriptArgumentsOutsideFunction" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="CoffeeScriptFunctionSignatures" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+          <inspection_tool class="CoffeeScriptInfiniteLoop" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="CoffeeScriptLiteralNotFunction" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="CoffeeScriptSillyAssignment" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="CoffeeScriptSwitchStatementWithNoDefaultBranch" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="CoffeeScriptUnusedLocalSymbols" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="CucumberExamplesColon" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="CucumberMissedExamples" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="CucumberTableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="CucumberUndefinedStep" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="DuplicateKeyInSection" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="DuplicateSectionInFile" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="GherkinBrokenTableInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="GherkinMisplacedBackground" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="HamlNestedTagContent" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="HardwiredNamespacePrefix" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="ImplicitTypeConversion" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="IndexZeroUsage" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="LessResolvedByNameOnly" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+          <inspection_tool class="LessUnresolvedMixin" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="LessUnresolvedVariable" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="MessDetectorValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+            <option name="UNUSEDCODE" value="true" />
+          </inspection_tool>
+          <inspection_tool class="PhingDomInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+          <inspection_tool class="RedundantTypeConversion" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="TaskInspection" enabled="false" level="INFO" enabled_by_default="false" />
+          <inspection_tool class="TaskProblemsInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+          <inspection_tool class="TypeScriptAccessibilityCheck" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+          <inspection_tool class="TypeScriptCheckImport" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="TypeScriptUnresolvedFunction" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+          <inspection_tool class="TypeScriptUnresolvedVariable" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+          <inspection_tool class="TypeScriptValidateJSTypes" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+          <inspection_tool class="TypeScriptValidateTypes" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="UnresolvedReference" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="XmlDuplicatedId" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="XmlHighlighting" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="XmlInvalidId" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="XmlPathReference" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="XmlUnboundNsPrefix" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="XmlUnusedNamespaceDeclaration" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="XmlWrongRootElement" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="XsltDeclarations" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="XsltTemplateInvocation" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="XsltUnusedDeclaration" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="XsltVariableShadowing" enabled="false" level="WARNING" enabled_by_default="false" />
         </profile>
         <option name="PROJECT_PROFILE" value="Project Default" />
         <option name="USE_PROJECT_PROFILE" value="true" />
         <version value="1.0" />
-      </component>
-      <component name="JSLintConfiguration" json="true">
-        <option indent="4" />
-        <option maxerr="50" />
-      </component>
-      <component name="JavaScriptLibraryMappings">
-        <includedPredefinedLibrary name="ECMAScript 6" />
-      </component>
-      <component name="JavaScriptSettings">
-        <option name="languageLevel" value="ES6" />
-      </component>
-      <component name="JsBowerSettings">
-        <exe-path />
-        <config-path />
       </component>
       <component name="PhpUnit">
         <phpunit_settings>
           <PhpUnitSettings />
         </phpunit_settings>
       </component>
-      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.5" />
       <component name="ProjectDictionaryState">
-        <dictionary name="david.verdin" />
+        <dictionary name="kyllian" />
       </component>
       <component name="ProjectInspectionProfilesVisibleTreeState">
         <entry key="Project Default">
@@ -51,49 +87,10 @@
               <State>
                 <id />
               </State>
-              <State>
-                <id>Control flow issuesJavaScript</id>
-              </State>
-              <State>
-                <id>DOM issuesJavaScript</id>
-              </State>
-              <State>
-                <id>Data flow issuesJavaScript</id>
-              </State>
-              <State>
-                <id>Error handlingJavaScript</id>
-              </State>
-              <State>
-                <id>File Watchers</id>
-              </State>
-              <State>
-                <id>GeneralJavaScript</id>
-              </State>
-              <State>
-                <id>Internationalization issues</id>
-              </State>
-              <State>
-                <id>JavaScript</id>
-              </State>
-              <State>
-                <id>PHP</id>
-              </State>
-              <State>
-                <id>Potentially confusing code constructsJavaScript</id>
-              </State>
-              <State>
-                <id>SQL</id>
-              </State>
-              <State>
-                <id>UnusedPHP</id>
-              </State>
-              <State>
-                <id>XPath</id>
-              </State>
             </expanded-state>
             <selected-state>
               <State>
-                <id>PHP</id>
+                <id>Blade files</id>
               </State>
             </selected-state>
           </profile-state>
@@ -110,55 +107,15 @@
         <ConfirmationsSetting value="0" id="Remove" />
       </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="reference.settings.ics" />
-        <property name="nodejs_interpreter_path" value="C:\Program Files\nodejs\node" />
-        <property name="js.eslint.eslintPackage" value="" />
-        <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
-        <property name="js.eslint.nodeInterpreter" value="project" />
+        <property name="settings.editor.selected.configurable" value="xpath.settings" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
-        <property name="JavaScriptPreferStrict" value="false" />
-        <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
-        <property name="last_opened_file_path" value="C:/Program Files/nodejs/node.exe" />
-      </component>
-      <component name="SshConsoleOptionsProvider">
-        <option name="myEncoding" value="UTF-8" />
-        <option name="myConnectionType" value="NONE" />
-      </component>
-      <component name="SvnConfiguration">
-        <configuration>C:\Users\david.verdin\AppData\Roaming\Subversion</configuration>
       </component>
       <component name="VagrantProjectSettings">
-        <option name="instanceFolder" value="E:\git\vagrant-configs\vagrant-configs" />
+        <option name="instanceFolder" value="" />
         <option name="provider" value="" />
       </component>
       <component name="VcsContentAnnotationSettings">
         <option name="myLimit" value="2678400000" />
-      </component>
-      <component name="masterDetails">
-        <states>
-          <state key="Copyright.UI">
-            <settings>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-          <state key="ScopeChooserConfigurable.UI">
-            <settings>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-        </states>
       </component>
     </defaultProject>
   </component>
