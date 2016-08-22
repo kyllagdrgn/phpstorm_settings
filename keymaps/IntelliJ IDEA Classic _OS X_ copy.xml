@@ -1,0 +1,11 @@
+<keymap version="1" name="IntelliJ IDEA Classic (OS X) copy" parent="Mac OS X">
+  <action id="CloseContent" />
+  <action id="CloseEditor">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="EditorUnSelectWord" />
+</keymap>
