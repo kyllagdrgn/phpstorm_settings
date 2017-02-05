@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '/Users/kyllian/git/doom.com/htdocs/assets/css'" />
-    <option name="defaultScopeName" value="Directory '/Users/kyllian/git/doom.com/htdocs/assets/css'" />
+    <option name="customScope" value="File '.../deploy/resources/views/layouts/base.blade.php - [elderscrolls.com]'" />
+    <option name="defaultScopeName" value="File '.../deploy/resources/views/layouts/base.blade.php - [elderscrolls.com]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '/Users/kyllian/git/doom.com/htdocs/assets/css'" />
+    <option name="SEARCH_SCOPE" value="File '.../deploy/resources/views/layouts/base.blade.php - [elderscrolls.com]'" />
   </component>
 </application>
