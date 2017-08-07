@@ -1,4 +1,4 @@
-<keymap version="1" name="Default copy" parent="$default">
+<keymap version="1" name="Kyllian" parent="$default">
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
