@@ -1,4 +1,10 @@
 <application>
+  <component name="MessDetector">
+    <phpmd_settings_migrated />
+  </component>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings_migrated />
+  </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="vagrant://E:/git/vagrant-configs/vagrant-configs/Ubuntu-12.0.4-LTS/.vagrant/usr/bin/php" id="be939430-cb6a-4526-af14-3f16839a2804" name="Vagrant PHP 5.3" debugger_id="php.debugger.XDebug">
